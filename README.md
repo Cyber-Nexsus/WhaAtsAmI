@@ -31,14 +31,14 @@
 
 # Sample Console Output
 
-=== WhoIsMoni ===
-Server running: http://0.0.0.0:8717
+# === WhoIsMoni ===
+## Server running: http://0.0.0.0:8717
 
-[2026-02-28 12:51:39] 👤 NEW VISITOR: 127.0.0.1
-[2026-02-28 12:51:42] 📱 TYPING: +44 71** *** ***
-[2026-02-28 12:51:45] 📞 PHONE CAPTURED: +447123456789 (United Kingdom)
-[2026-02-28 12:52:01] 🔑 OTP STEAL: 123456 → +447123456789
-[2026-02-28 12:52:02] ✅ SESSION COMPLETE
+### [2026-02-28 12:51:39] 👤 NEW VISITOR: 127.0.0.1
+### [2026-02-28 12:51:42] 📱 TYPING: +44 71** *** ***
+### [2026-02-28 12:51:45] 📞 PHONE CAPTURED: +447123456789 (United Kingdom)
+### [2026-02-28 12:52:01] 🔑 OTP STEAL: 123456 → +447123456789
+### [2026-02-28 12:52:02] ✅ SESSION COMPLETE
 
 # Authorized Use Only
 
