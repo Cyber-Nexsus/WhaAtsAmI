@@ -50,7 +50,7 @@
 
 # How to use? Tutorial Video
 
-### The video link is not available right now, please come back later.
+### https://youtu.be/x9vkXlCwbEQ
 
 # Contact
 ### Instagram:- arcane.__01
