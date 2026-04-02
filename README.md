@@ -21,7 +21,7 @@
 
 # Quick Start
 
-### git clone https://github.com/codingcreatively/WhoIsMoni.git
+### git clone https://github.com/Cyber-Nexsus/WhaAtsAmI.git
 ### cd WhoIsMoni
 ### pip install -r requirements.txt
 ### python3 whoismoni.py
@@ -48,15 +48,31 @@
 ### ⚠️  Educational/research purposes only
 ### ⚠️  Report all findings responsibly
 
-# How to use? Tutorial Video
+## 📫 Connect With Me
 
-### https://youtu.be/x9vkXlCwbEQ
+<p align="center">
+  <a href="mailto:shawon1982i@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-# Contact
-### Instagram:- arcane.__01
-### Telegram:- @cashhustle_8
+  <a href="tel:+8801912054372">
+    <img src="https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-# Join Now
-### Yotutuhe:- https://youtube.com/@cyberarcane8?si=ufFzu1ubtIzTrbHZ
-### Telegram Channel:- https://t.me/dealzone2888
+  <a href="https://www.linkedin.com/in/shawon1982/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://www.facebook.com/chinu.jannun">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/cyber.nexsus/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">⚡ Keep Learning | Keep Hacking Ethically ⚡</p>
 
